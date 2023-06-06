@@ -1,0 +1,16 @@
+body{
+    background-color: #e0e0e0;
+
+}
+.box-container{
+    height: 100px;
+    width: 200px;
+    border-style: solid;
+    background-color: red;
+
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
