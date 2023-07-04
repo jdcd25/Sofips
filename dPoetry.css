@@ -9,3 +9,13 @@ header{
     background-position: center;
     background-size: cover;
 }
+.tagline{
+    background-color: transparent;
+}
+pre{
+    color: rgb(247, 254, 252);
+    font-size: 20px;
+    margin-top: 60px;
+    text-align: left;
+    overflow: hidden;
+}
