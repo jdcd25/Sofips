@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-y: auto;
+}
+header{
+    background-image: linear-gradient(rgba(20, 20, 0,0.69),rgba(20, 20, 20,0.69)),url(https://c1.wallpaperflare.com/preview/272/995/705/coffee-desk-notepad-pen.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
