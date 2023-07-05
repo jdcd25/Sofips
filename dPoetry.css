@@ -19,3 +19,25 @@ pre{
     text-align: left;
     overflow: hidden;
 }
+section.s1{
+    background-color: rgba(156, 156, 156, 0.554);
+}
+.cContent{
+    display: flex;
+}
+.title{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    font-size: 100px;
+    font-style: italic;
+}
+.content{
+    overflow-y: scroll;
+    height: 500px;
+}
+pre{
+    color: rgb(76, 76, 76);
+}
