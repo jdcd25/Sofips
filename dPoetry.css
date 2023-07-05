@@ -38,6 +38,6 @@ section.s1{
     overflow-y: scroll;
     height: 500px;
 }
-pre{
+pre.pContent{
     color: rgb(76, 76, 76);
 }
